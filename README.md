@@ -11,6 +11,17 @@ This project focuses on phase reconstruction of coherent diffraction imaging (CD
 
 The environment file can be found in `environment.yml`. Using command `conda env create -f environment.yml` to install the environment
 
+If the `environment.yml`, please try to create your own version of environment by using command `conda create -n name python-=3.7` to creat an encironment named `name`. The packages are listed as follow:
+- h5py `conda install h5py`
+- numpy `conda install numpy`
+- matplotlib `conda install matplotlib`
+- ipywidgets `conda install ipywidgets`
+- silx `conda install silx`
+
+* the version of all the packages are not specified.
+
+If the `conda install xxx` command filed, try to use `pip install` or other conda channels.
+
 # ReconData
 
 Includes all the data used in the Jupyter Notebook file.
