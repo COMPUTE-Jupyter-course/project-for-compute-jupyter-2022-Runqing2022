@@ -18,3 +18,9 @@ Includes all the data used in the Jupyter Notebook file.
 # img
 
 Includes the images used in the Jupyter Notebook file
+
+
+# Problems will be solved in the future
+ - Speed up the `for ii_HIO in range(i_HIO):` loop
+ - Make this jupyternotebook avaliable on `mybinder`
+ 
